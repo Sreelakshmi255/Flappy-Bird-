@@ -1,0 +1,6 @@
+{
+  "name": "Retro Flap 8-Bit",
+  "description": "Retro 8-bit flappy bird arcade game with heart-based health, online leaderboards, global chat, customizable characters, daily bonuses, and sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
