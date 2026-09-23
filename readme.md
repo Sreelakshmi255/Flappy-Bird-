@@ -2,36 +2,23 @@
 
 Welcome to **Retro Flap 8-Bit**, a feature-rich, authentic arcade experience built for Android. Combining nostalgic 8-bit visuals, synthesized chiptune audio, and modern online social features, this game delivers the classic challenging gameplay loop enhanced with hearts, difficulty multipliers, global leaderboards, a chat terminal, and a cyberpunk event theme!
 
-## 📱 App Layout & Recommended Image Placements
-
-When showcasing your app repository, use the following layout to organize your screenshots and promotional graphics:
-
-```
-/docs/images/
-│
-├── 1_title_screen.png       # 📍 Place near the "Hero / Overview" section
-├── 2_gameplay_classic.png   # 📍 Place in the "Core Gameplay & Mechanics" section
-├── 3_cyber_event.png        # 📍 Place in the "Themes & Cyber Event" section
-├── 4_leaderboard_chat.png   # 📍 Place in the "Online Social & Leaderboards" section
-└── 5_shop_customization.png # 📍 Place in the "Character Customization Shop" section
-
-```
-
-### Markdown Image Insertion Guide:
-
-```
-<!-- Hero Shot -->
 <p align="center">
-  <img src="docs/images/1_title_screen.png" width="300" alt="Title Screen">
+<img width="343" height="718" alt="Screenshot 2026-09-23 230612" src="https://github.com/user-attachments/assets/5da704c0-2717-4220-b948-a01abb75473a" />
 </p>
 
-<!-- Gameplay Shot -->
 <p align="center">
-  <img src="docs/images/2_gameplay_classic.png" width="300" alt="Classic Gameplay">
-  <img src="docs/images/3_cyber_event.png" width="300" alt="Cyber Event Theme">
+<img width="342" height="720" alt="Screenshot 2026-09-23 230544" src="https://github.com/user-attachments/assets/1e54fdbb-6708-4221-9ece-4784d32a30c6" />
+</p>
+<p align="center">
+<img width="337" height="718" alt="Screenshot 2026-09-23 230447" src="https://github.com/user-attachments/assets/e99d8264-66dc-4f3a-94dd-2d23dee07064" />
+</p>
+<p align="center"><img width="337" height="722" alt="Screenshot 2026-09-23 230515" src="https://github.com/user-attachments/assets/c747ab84-b19d-4735-a84e-0dc9f2135d5b" />
+</p>
+<p align="center">
+  <img width="337" height="726" alt="Screenshot 2026-09-23 230705" src="https://github.com/user-attachments/assets/8e05b9ec-fa52-4921-8238-cd1bcfdd5d49" />
 </p>
 
-```
+
 
 ## 🌟 Key Features
 
